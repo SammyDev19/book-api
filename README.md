@@ -30,7 +30,7 @@ The API allows users to retrieve, add, update, delete, and search for books. Boo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/SammyCruz19/book-api.git
+git clone https://github.com/SammyDev19/book-api.git
 ```
 
 2. Navigate into the project:
